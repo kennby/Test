@@ -49,7 +49,7 @@ cd
 ```
 
 ```bash
-cd Mystic-termux
+cd Mitsuri-termux
 ```
 
 ```bash
@@ -103,4 +103,4 @@ npm start
 
 <a href="http://wa.me/5493873687620" target="blank"><img src="https://img.shields.io/badge/Support Ego_Official-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-https://capsule-render.vercel.app/api?type=waving&color=FF99EE&height=120&section=footer
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF99EE&height=120&section=footer"/>
